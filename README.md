@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourentertainments10-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourentertainments10-coder&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourentertainments10-coder&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
@@ -42,5 +41,17 @@
 </p>
 
 ---
+
+## new
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yourentertainments10-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/yourentertainments10-coder/yourentertainments10-coder/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 ⭐️ From [yourentertainments10-coder](https://github.com/yourentertainments10-coder)
